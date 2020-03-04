@@ -96,5 +96,3 @@ PW : asdf1234#
 
 ## license
 MIT License
-## About
-Authored and maintained by **ssafy**
